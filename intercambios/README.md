@@ -14,6 +14,6 @@ durante la ejecución de `main.cpp`.
 
 `main.cpp` [ver][main.cpp]
 
-[intercambios.h]:./intercambios/src/intercambios.h
-[intercambios.cpp]:./intercambios/src/intercambios.cpp
-[main.cpp]:./intercambios/src/main.cpp
+[intercambios.h]:./src/intercambios.h
+[intercambios.cpp]:./src/intercambios.cpp
+[main.cpp]:./src/main.cpp
