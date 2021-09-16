@@ -1,4 +1,4 @@
-Algoritmos y Programación 2 - FI UBA
+Algoritmos y ProgramaciÃ³n 2 - FI UBA
 
 # Punteros: Intercambios en C++
 
@@ -6,7 +6,7 @@ Algoritmos y Programación 2 - FI UBA
 
 A partir de las funciones de intercambio definidas en `intercambios.h`
 e implementadas en `intercambios.cpp` analizar las salidas producidas
-durante la ejecución de `main.cpp`.
+durante la ejecuciÃ³n de `main.cpp`.
 
 `intercambios.h` [ver][intercambios.h]
 
@@ -14,6 +14,6 @@ durante la ejecución de `main.cpp`.
 
 `main.cpp` [ver][main.cpp]
 
-[intercambios.h]:./src/intercambios.h
-[intercambios.cpp]:./src/intercambios.cpp
-[main.cpp]:./src/main.cpp
+[intercambios.h]:./intercambios/src/intercambios.h
+[intercambios.cpp]:./intercambios/src/intercambios.cpp
+[main.cpp]:./intercambios/src/main.cpp
